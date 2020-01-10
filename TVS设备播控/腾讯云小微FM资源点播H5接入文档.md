@@ -1,26 +1,26 @@
-¸Ã H5 Ò³Ãæ³Ğµ£µÄÔğÈÎÊÇ FM ×ÊÔ´µÄĞÅÏ¢µÄÕ¹Ê¾¡£Éæ¼°µ½²¥¿ØÁ÷³ÌĞèÒª°´ÕÕ²¥¿Ø¶ÔÓ¦µÄ·½·¨½øĞĞÊµÏÖºÍ´¦Àí¡£
- __1.DMSDK__ 
-½ÓÈë DMSDK ±£Ö¤Ö÷ÕËºÅµÇÈë¡£
-(ÏêÇé£º[https://dingdang.qq.com/doc/page/365/](https://dingdang.qq.com/doc/page/365)  __ÕÊºÅ½ÓÈë__ £©
- __2.½ÓÈë URL µØÖ·__ 
-Í¨¹ı DMSDK ´ò¿ª¶ÔÓ¦µÃ URL £º
-ÕıÊ½»·¾³£º
-[https://ddsdk.html5.qq.com/v2m/fmControl/](https://ddsdk.html5.qq.com/v2m/musicControl)
-ÌåÑé»·¾³:
-[https://ddsdkgray.html5.qq.com/v2m/fmControl/](https://ddsdk.html5.qq.com/v2m/musicControl)
-²âÊÔ»·¾³:
- https://sdk.sparta.html5.qq.com/v2m/fmControl/ 
- __3. µã»÷ H5 Ò³ÃæÍ¨Ñ¶Ğ­Òé__ 
-²¥·ÅÆ÷ºÍ²¥·ÅÌõĞèÒª¿Í»§¶ËÊµÏÖ£¬±¾ËµÃ÷ÎÄµµ²»°üº¬²¥·ÅÆ÷ºÍ²¥·ÅÌõÊµÏÖ·½Ê½¡£
-ÏÂÃæÊÇ¹ØÓÚ H5 ºÍ app native Ö®¼äµÄÍ¨Ñ¶£¬µ±ÔÚ H5 µã»÷Ä³Ò»¸ö fm µÄ×ÊÔ´£¬ĞèÒª½«µ±Ç°µÄ×ÊÔ´ĞÅÏ¢´«µİ¸ø native ½øĞĞ´¦Àí¡£Õâ±ßÖ÷Òª°üÀ¨£ºµã»÷¾ßÌåµÄÄ³Ò»¸öÊ×£¬µã»÷È«²¿²¥·Å°´Å¥£¬È¡Ïû£¨È«ÆÁµÄËÑË÷¿ò£¬ĞèÒªÊµÏÖ·µ»Ø£©¡£Í¬Ê±ĞèÒªÍ¬²½µÄÊÇ£¬Éè±¸µ±Ç°²¥·ÅµÃ×ÊÔ´ id ĞèÒªÍ¬²½¸ø H5 Ò³Ãæ½øĞĞÏÔÊ¾¡£
-ÆäÖĞÍ¨Ñ¶µÄProxyDataĞ­ÒéµÄ¿ÉÒÔ²é¿´£º
-Android£ºhttps://dingdang.qq.com/doc/page/303
-iOS£ºhttps://dingdang.qq.com/doc/page/351
-ÏÂÃæÊÇ¾ßÌåµÄĞ­ÒéĞÅÏ¢¡£(Õâ±ßµÃÍ¨Ñ¶·½·¨ºÍ¶¨ÒåµÄ×Ö¶ÎĞÅÏ¢ºÍÒôÀÖµã²¥Ò»Ñù£¬½ÓÈëÒôÀÖµã²¥Ö®ºó¿ÉÖ±½Ó¹²ÓÃ)
-__£¨__  __1__  __£©²¥·ÅÄ³Ò»Ê× FM ×ÊÔ´½ÚÄ¿__
-####cmd: DDApi.proxydata 
-####data.action: playMusic 
-####data.data: 
+è¯¥ H5 é¡µé¢æ‰¿æ‹…çš„è´£ä»»æ˜¯ FM èµ„æºçš„ä¿¡æ¯çš„å±•ç¤ºã€‚æ¶‰åŠåˆ°æ’­æ§æµç¨‹éœ€è¦æŒ‰ç…§æ’­æ§å¯¹åº”çš„æ–¹æ³•è¿›è¡Œå®ç°å’Œå¤„ç†ã€‚</br>
+ __1.DMSDK__ </br>
+æ¥å…¥ DMSDK ä¿è¯ä¸»è´¦å·ç™»å…¥ã€‚</br>
+(è¯¦æƒ…ï¼š[https://dingdang.qq.com/doc/page/365/](https://dingdang.qq.com/doc/page/365)  __å¸å·æ¥å…¥__ ï¼‰</br>
+ __2.æ¥å…¥ URL åœ°å€__ </br>
+é€šè¿‡ DMSDK æ‰“å¼€å¯¹åº”å¾— URL ï¼š</br>
+æ­£å¼ç¯å¢ƒï¼š</br>
+[https://ddsdk.html5.qq.com/v2m/fmControl/](https://ddsdk.html5.qq.com/v2m/musicControl)</br>
+ä½“éªŒç¯å¢ƒ:</br>
+[https://ddsdkgray.html5.qq.com/v2m/fmControl/](https://ddsdk.html5.qq.com/v2m/musicControl)</br>
+æµ‹è¯•ç¯å¢ƒ:</br>
+ https://sdk.sparta.html5.qq.com/v2m/fmControl/ </br>
+ __3. ç‚¹å‡» H5 é¡µé¢é€šè®¯åè®®__ 
+æ’­æ”¾å™¨å’Œæ’­æ”¾æ¡éœ€è¦å®¢æˆ·ç«¯å®ç°ï¼Œæœ¬è¯´æ˜æ–‡æ¡£ä¸åŒ…å«æ’­æ”¾å™¨å’Œæ’­æ”¾æ¡å®ç°æ–¹å¼ã€‚</br>
+ä¸‹é¢æ˜¯å…³äº H5 å’Œ app native ä¹‹é—´çš„é€šè®¯ï¼Œå½“åœ¨ H5 ç‚¹å‡»æŸä¸€ä¸ª fm çš„èµ„æºï¼Œéœ€è¦å°†å½“å‰çš„èµ„æºä¿¡æ¯ä¼ é€’ç»™ native è¿›è¡Œå¤„ç†ã€‚è¿™è¾¹ä¸»è¦åŒ…æ‹¬ï¼šç‚¹å‡»å…·ä½“çš„æŸä¸€ä¸ªé¦–ï¼Œç‚¹å‡»å…¨éƒ¨æ’­æ”¾æŒ‰é’®ï¼Œå–æ¶ˆï¼ˆå…¨å±çš„æœç´¢æ¡†ï¼Œéœ€è¦å®ç°è¿”å›ï¼‰ã€‚åŒæ—¶éœ€è¦åŒæ­¥çš„æ˜¯ï¼Œè®¾å¤‡å½“å‰æ’­æ”¾å¾—èµ„æº id éœ€è¦åŒæ­¥ç»™ H5 é¡µé¢è¿›è¡Œæ˜¾ç¤ºã€‚</br>
+å…¶ä¸­é€šè®¯çš„ProxyDataåè®®çš„å¯ä»¥æŸ¥çœ‹ï¼š</br>
+Androidï¼šhttps://dingdang.qq.com/doc/page/303</br>
+iOSï¼šhttps://dingdang.qq.com/doc/page/351</br>
+ä¸‹é¢æ˜¯å…·ä½“çš„åè®®ä¿¡æ¯ã€‚(è¿™è¾¹å¾—é€šè®¯æ–¹æ³•å’Œå®šä¹‰çš„å­—æ®µä¿¡æ¯å’ŒéŸ³ä¹ç‚¹æ’­ä¸€æ ·ï¼Œæ¥å…¥éŸ³ä¹ç‚¹æ’­ä¹‹åå¯ç›´æ¥å…±ç”¨)</br>
+__ï¼ˆ__  __1__  __ï¼‰æ’­æ”¾æŸä¸€é¦– FM èµ„æºèŠ‚ç›®__
+#### cmd: DDApi.proxydata 
+#### data.action: playMusic 
+#### data.data: 
 {
 sId sPic sAlbumId
 sAlbumName
@@ -29,15 +29,15 @@ sSingerName
 sSongId
 sSongName
 semantic
-}
-Àı×Ó£º
+}</br>
+ä¾‹å­ï¼š</br>
  ```json
-[{"cmd":"DDApi.proxydata","data":{"action":"playMusic","data":{"sId":"1_rd000M9dh94AzeBj","sPic":"http://imgcache.qq.com/fm/photo/album/rmid_album_360/B/j/000M9dh94AzeBj.jpg?time=1533460912","sSongId":"1_rd002vYGDk3luxcr","sSongName":"³É³¤ĞèÒªÊ±¼ä£¬¿É³¤´óÖ»ÊÇË²¼ä","semantic":"{ \"bubble_transform_query\": \"\", \"confidence\": -1, \"domain\": \"fm\", \"extra_semantic\": [ ], \"ifttt_this\":\"\", \"intent\": \"play_show\", \"invocation_name\": \"\", \"is_semantic_only\": true, \"nlu_match_info\": { \"is_single_entity\": true,\"matched_type\": 0 }, \"query\": \"\", \"query_source_type\": 1, \"query_type\": 2, \"session_complete\": false, \"skill_id\": \"\", \"skill_trigger_type\":1, \"slots\": [ { \"confirm_state\": 0, \"json_values\": [ ], \"name\": \"albumid\", \"prompt\": { \"prompt_type\": 0, \"show_text\": \"\", \"slot_name\":\"\", \"slot_type\": \"\", \"speak_text\": \"\" }, \"sInteractionType\": 0, \"sPrompt\": { \"intent_name\": \"\", \"show_text\": \"\", \...114, 100, 48, 48,48, 77, 57, 100, 104, 57, 52, 65, 122, 101, 66, 106, 22, 0, 44, 60, 70, 0, 92 ] ] }, { \"confirm_state\": 0, \"json_values\": [ ], \"name\": \"showid\",\"prompt\": { \"prompt_type\": 0, \"show_text\": \"\", \"slot_name\": \"\", \"slot_type\": \"\", \"speak_text\": \"\" }, \"sInteractionType\": 0,\"sPrompt\": { \"intent_name\": \"\", \"show_text\": \"\", \"skill_id\": \"\", \"slot_name\": \"\", \"slot_options\": \"\", \"slot_type\": \"\",\"speak_text\": \"\" }, \"selectResult\": { \"all_no\": false, \"index\": -1, \"indexes\": [ ], \"type\": 0, \"value\": \"\" }, \"select_state\": 0, \"slot_struct\":1, \"type\": \"\", \"values\": [ [ 6, 18, 49, 95, 114, 100, 48, 48, 50, 118, 89, 71, 68, 107, 51, 108, 117, 120, 99, 114, 22, 0, 44, 60, 70, 0, 92 ] ] } ],\"slots_v2\": [ ], \"type\": 0, \"voice_query\": { \"asr_results\": [ ], \"compress_type\": 1, \"pre_itn_query\": \"\", \"raw_data\": [ ], \"sample_rate\": 8000 } }"}},"id":"10_1564557808278_DDApi.proxydata"}]
+[{"cmd":"DDApi.proxydata","data":{"action":"playMusic","data":{"sId":"1_rd000M9dh94AzeBj","sPic":"http://imgcache.qq.com/fm/photo/album/rmid_album_360/B/j/000M9dh94AzeBj.jpg?time=1533460912","sSongId":"1_rd002vYGDk3luxcr","sSongName":"æˆé•¿éœ€è¦æ—¶é—´ï¼Œå¯é•¿å¤§åªæ˜¯ç¬é—´","semantic":"{ \"bubble_transform_query\": \"\", \"confidence\": -1, \"domain\": \"fm\", \"extra_semantic\": [ ], \"ifttt_this\":\"\", \"intent\": \"play_show\", \"invocation_name\": \"\", \"is_semantic_only\": true, \"nlu_match_info\": { \"is_single_entity\": true,\"matched_type\": 0 }, \"query\": \"\", \"query_source_type\": 1, \"query_type\": 2, \"session_complete\": false, \"skill_id\": \"\", \"skill_trigger_type\":1, \"slots\": [ { \"confirm_state\": 0, \"json_values\": [ ], \"name\": \"albumid\", \"prompt\": { \"prompt_type\": 0, \"show_text\": \"\", \"slot_name\":\"\", \"slot_type\": \"\", \"speak_text\": \"\" }, \"sInteractionType\": 0, \"sPrompt\": { \"intent_name\": \"\", \"show_text\": \"\", \...114, 100, 48, 48,48, 77, 57, 100, 104, 57, 52, 65, 122, 101, 66, 106, 22, 0, 44, 60, 70, 0, 92 ] ] }, { \"confirm_state\": 0, \"json_values\": [ ], \"name\": \"showid\",\"prompt\": { \"prompt_type\": 0, \"show_text\": \"\", \"slot_name\": \"\", \"slot_type\": \"\", \"speak_text\": \"\" }, \"sInteractionType\": 0,\"sPrompt\": { \"intent_name\": \"\", \"show_text\": \"\", \"skill_id\": \"\", \"slot_name\": \"\", \"slot_options\": \"\", \"slot_type\": \"\",\"speak_text\": \"\" }, \"selectResult\": { \"all_no\": false, \"index\": -1, \"indexes\": [ ], \"type\": 0, \"value\": \"\" }, \"select_state\": 0, \"slot_struct\":1, \"type\": \"\", \"values\": [ [ 6, 18, 49, 95, 114, 100, 48, 48, 50, 118, 89, 71, 68, 107, 51, 108, 117, 120, 99, 114, 22, 0, 44, 60, 70, 0, 92 ] ] } ],\"slots_v2\": [ ], \"type\": 0, \"voice_query\": { \"asr_results\": [ ], \"compress_type\": 1, \"pre_itn_query\": \"\", \"raw_data\": [ ], \"sample_rate\": 8000 } }"}},"id":"10_1564557808278_DDApi.proxydata"}]
 ``` 
-__£¨__  __2__  __£©²¥·ÅÈ«²¿½ÚÄ¿__
-####cmd: DDApi.proxydata
-####data.action: playAllMusic 
-####data.data:
+__ï¼ˆ__  __2__  __ï¼‰æ’­æ”¾å…¨éƒ¨èŠ‚ç›®__
+#### cmd: DDApi.proxydata
+#### data.action: playAllMusic 
+data.data:
 { 
 sId sPic sAlbumI d 
 sAlbumName 
@@ -45,20 +45,20 @@ sSingerId
 sSingerName 
 sSongId 
 sSongName 
-}
-Àı×Ó£º
+}</br>
+ä¾‹å­ï¼š</br>
   ```json
-[{"cmd":"DDApi.proxydata","data":{"action":"playAllMusic","data":{"sId":"1_rd000M9dh94AzeBj","sPic":"http://imgcac he.qq.com/fm/photo/album/rmid_album_360/B/j/000M9dh94AzeBj.jpg?time=1533460912","sSongId":"1_rd002vYGDk3luxcr","sSongName":"³É³¤ĞèÒªÊ±¼ä£¬¿É³¤´óÖ»ÊÇË²¼ä","semantic":"{ \"bubble_transform_query\": \"\", \"confidence\": -1, \"domain\": \"fm\", \"extra_semantic\": [ ], \"ifttt_this\": \"\", \"intent\": \"play_show\", \"invocation_name\": \"\", \"is_semantic_only\": true, \"nlu_match_info\": { \"is_single_entity\": true, \"matched_type\": 0 }, \"query\": \"\", \"query_source_type\": 1, \"query_type\": 2, \"session_complete\": false, \"skill_id\": \"\", \"skill_trigger_type\": 1, \"slots\": [ { \"confirm_state\": 0, \"json_values\": [ ], \"name\": \"albumid\", \"prompt\": { \"prompt_type\": 0, \"show_text\": \"\", \"slot_name\": \"\", \"slot_type\": \"\", \"speak_text\": \"\" }, \"sInteractionType\": 0, \"sPrompt\": { \"intent_name\": \"\", \"show_text\": \"\"...114, 100, 48, 48, 48,77, 57, 100, 104, 57, 52, 65, 122, 101, 66, 106, 22, 0, 44, 60, 70, 0, 92 ] ] }, { \"confirm_state\": 0, \"json_values\": [ ], \"name\": \"showid\", \"prompt\":{ \"prompt_type\": 0, \"show_text\": \"\", \"slot_name\": \"\", \"slot_type\": \"\", \"speak_text\": \"\" }, \"sInteractionType\": 0, \"sPrompt\":{ \"intent_name\": \"\", \"show_text\": \"\", \"skill_id\": \"\", \"slot_name\": \"\", \"slot_options\": \"\", \"slot_type\": \"\", \"speak_text\": \"\" },\"selectResult\": { \"all_no\": false, \"index\": -1, \"indexes\": [ ], \"type\": 0, \"value\": \"\" }, \"select_state\": 0, \"slot_struct\": 1, \"type\": \"\",\"values\": [ [ 6, 18, 49, 95, 114, 100, 48, 48, 50, 118, 89, 71, 68, 107, 51, 108, 117, 120, 99, 114, 22, 0, 44, 60, 70, 0, 92 ] ] } ], \"slots_v2\": [ ], \"type\":0, \"voice_query\": { \"asr_results\": [ ], \"compress_type\": 1, \"pre_itn_query\": \"\", \"raw_data\": [ ], \"sample_rate\": 8000 } }"}},"id":"10_1564558064005_DDApi.proxydata"}]
+[{"cmd":"DDApi.proxydata","data":{"action":"playAllMusic","data":{"sId":"1_rd000M9dh94AzeBj","sPic":"http://imgcac he.qq.com/fm/photo/album/rmid_album_360/B/j/000M9dh94AzeBj.jpg?time=1533460912","sSongId":"1_rd002vYGDk3luxcr","sSongName":"æˆé•¿éœ€è¦æ—¶é—´ï¼Œå¯é•¿å¤§åªæ˜¯ç¬é—´","semantic":"{ \"bubble_transform_query\": \"\", \"confidence\": -1, \"domain\": \"fm\", \"extra_semantic\": [ ], \"ifttt_this\": \"\", \"intent\": \"play_show\", \"invocation_name\": \"\", \"is_semantic_only\": true, \"nlu_match_info\": { \"is_single_entity\": true, \"matched_type\": 0 }, \"query\": \"\", \"query_source_type\": 1, \"query_type\": 2, \"session_complete\": false, \"skill_id\": \"\", \"skill_trigger_type\": 1, \"slots\": [ { \"confirm_state\": 0, \"json_values\": [ ], \"name\": \"albumid\", \"prompt\": { \"prompt_type\": 0, \"show_text\": \"\", \"slot_name\": \"\", \"slot_type\": \"\", \"speak_text\": \"\" }, \"sInteractionType\": 0, \"sPrompt\": { \"intent_name\": \"\", \"show_text\": \"\"...114, 100, 48, 48, 48,77, 57, 100, 104, 57, 52, 65, 122, 101, 66, 106, 22, 0, 44, 60, 70, 0, 92 ] ] }, { \"confirm_state\": 0, \"json_values\": [ ], \"name\": \"showid\", \"prompt\":{ \"prompt_type\": 0, \"show_text\": \"\", \"slot_name\": \"\", \"slot_type\": \"\", \"speak_text\": \"\" }, \"sInteractionType\": 0, \"sPrompt\":{ \"intent_name\": \"\", \"show_text\": \"\", \"skill_id\": \"\", \"slot_name\": \"\", \"slot_options\": \"\", \"slot_type\": \"\", \"speak_text\": \"\" },\"selectResult\": { \"all_no\": false, \"index\": -1, \"indexes\": [ ], \"type\": 0, \"value\": \"\" }, \"select_state\": 0, \"slot_struct\": 1, \"type\": \"\",\"values\": [ [ 6, 18, 49, 95, 114, 100, 48, 48, 50, 118, 89, 71, 68, 107, 51, 108, 117, 120, 99, 114, 22, 0, 44, 60, 70, 0, 92 ] ] } ], \"slots_v2\": [ ], \"type\":0, \"voice_query\": { \"asr_results\": [ ], \"compress_type\": 1, \"pre_itn_query\": \"\", \"raw_data\": [ ], \"sample_rate\": 8000 } }"}},"id":"10_1564558064005_DDApi.proxydata"}]
  ```
-__£¨__  __3__  __£©È¡Ïû¹Ø±ÕÒ³Ãæ£¨Ó¦ÓÃÔÚÈ«ÆÁµÄËÑË÷¿ò£¬È¡Ïû°´Å¥£©__
-####cmd: DDApi.proxydata"
-####data.action: cancel
-Àı×Ó£º
+__ï¼ˆ__  __3__  __ï¼‰å–æ¶ˆå…³é—­é¡µé¢ï¼ˆåº”ç”¨åœ¨å…¨å±çš„æœç´¢æ¡†ï¼Œå–æ¶ˆæŒ‰é’®ï¼‰__
+#### cmd: DDApi.proxydata"
+#### data.action: cancel
+ä¾‹å­ï¼š</br>
   ```json
 [{"cmd":"DDApi.proxydata","data":{"action":"cancel","data":""},"id":"10_1555504265707_DDApi.proxydata"}]
   ```
- __£¨__  __4__  __£©»Øµ÷ÕıÔÚ²¥·ÅµÄ½ÚÄ¿__ 
-####cmd: DDApi.proxydata"
-####data.action:  __getPlaySongId__ 
-ĞèÒªÊµÏÖ¶ÔÓ¦µÄ»Øµ÷º¯Êı£º_ddSdkCbPlaySong£¨songId£©
-½«½ÚÄ¿µÄ id£¬»Øµ÷¸ø H5 Ò³Ãæ£¬Í¨ÖªÕıÔÚ²¥·ÅµÃÒ³Ãæ¡£Í¬Ê±£¬²¥·ÅÆ÷ºÍ²¥¿ØÌõÇĞ»»½ÚÄ¿µÄÊ±ºò£¬Ò²ĞèÒªµ÷ÓÃ¸Ã»Øµ÷º¯Êı£¬¸æÖª H5 µ±Ç°²¥·ÅµÄ½ÚÄ¿ Id¡£
+ __ï¼ˆ__  __4__  __ï¼‰å›è°ƒæ­£åœ¨æ’­æ”¾çš„èŠ‚ç›®__ 
+#### cmd: DDApi.proxydata"
+#### data.action:  __getPlaySongId__ 
+éœ€è¦å®ç°å¯¹åº”çš„å›è°ƒå‡½æ•°ï¼š_ddSdkCbPlaySongï¼ˆsongIdï¼‰</br>
+å°†èŠ‚ç›®çš„ idï¼Œå›è°ƒç»™ H5 é¡µé¢ï¼Œé€šçŸ¥æ­£åœ¨æ’­æ”¾å¾—é¡µé¢ã€‚åŒæ—¶ï¼Œæ’­æ”¾å™¨å’Œæ’­æ§æ¡åˆ‡æ¢èŠ‚ç›®çš„æ—¶å€™ï¼Œä¹Ÿéœ€è¦è°ƒç”¨è¯¥å›è°ƒå‡½æ•°ï¼Œå‘ŠçŸ¥ H5 å½“å‰æ’­æ”¾çš„èŠ‚ç›® Idã€‚</br>
